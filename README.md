@@ -2,7 +2,7 @@ PROJECT PROPOSAL
 
 
 Project Title 
-Credit Card Fraud Detection 
+Credit Card Risk Detection 
 	
 Team Members 
 Risha Shah
@@ -19,7 +19,7 @@ Practical applications of ML in credit card fraud
 Fraud occurrence by country if dataset is available
 
 Data Sets to be Used
-https://www.kaggle.com/mlg-ulb/creditcardfraud
+https://archive.ics.uci.edu/ml/machine-learning-databases/00350/
 
 Machine Learning Algorithms to be Used
 Logistic Regression Classifiers (Manu)
@@ -41,6 +41,3 @@ Data Visualization
 Usage of ML Algorithms 
 Report Summary
 Presentation Preparation
-
-https://docs.google.com/document/d/1mXuH_uKJAVjvjp7MLtHRe2U2ZiIClEWoympwPAwVG60/edit?usp=sharing
-
