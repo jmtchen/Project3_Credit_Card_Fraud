@@ -30,11 +30,13 @@
 * Python Matplotlib
 * Tableau
 
-### Rough Breakdown of Tasks 
+### Breakdown of Tasks 
 * Data Exploration (Understanding Data)
 * Data Cleansing (Cleaning Data) 
-* Combining multiple data sources
+* Combining multiple data source
 * Data Visualization
+* Feature Engineering
 * Usage of ML Algorithms 
 * Report Summary
-* Presentation Preparation
+
+
